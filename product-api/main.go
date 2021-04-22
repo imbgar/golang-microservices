@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
+	"github.com/imbgar/golang-microservices/product-api/handlers"
 )
 
 func main() {
