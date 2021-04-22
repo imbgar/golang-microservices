@@ -1,4 +1,4 @@
-module local.com/http-server-mod
+module github.com/imbgar/golang-microservices/product-api
 
 go 1.16
 
