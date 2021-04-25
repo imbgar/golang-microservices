@@ -11,3 +11,9 @@ For compilers to find openjdk you may need to set:
   brew tap go-swagger/go-swagger && brew install go-swagger
 
   brew tap go-swagger/go-swagger && arch -arm64 brew install go-swagger 
+
+
+
+https://github.com/go-swagger/go-swagger​
+https://github.com/go-openapi/runtime/tree/master/middleware
+https://github.com/Redocly/redoc
